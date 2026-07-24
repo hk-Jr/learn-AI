@@ -34,3 +34,6 @@ dist/
 
 #virtual doc of jupyter lab
 /.virtual_documents
+
+#our venv
+/cnn_model_venv
