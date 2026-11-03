@@ -1,0 +1,5 @@
+Principles of Quantum Computing and Cryptography
+
+1. Fundamentals of Qubits and Superposition
+
+Unlike classical bits which exist deterministically as 0 or 1, quantum bits (qubits) exist in a superposition of states represented mathematically as |psi> = alpha|0> + beta|1>, where |alpha|^2 + |beta|^2 = 1. This property allows quantum computers to evaluate vast combinatorial solution spaces simultane

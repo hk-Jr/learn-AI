@@ -1,0 +1,10 @@
+MISSION REPORT: PERSEVERANCE MARS ROVER AND INGENUITY HELICOPTER
+
+1. Mission Overview
+The Mars 2020 Perseverance rover touched down inside Jezero Crater on February 18, 2021. The primary mission objectives are seeking signs of ancient habitability and collecting sealed rock core samples for return to Earth during the future Mars Sample Return campaign.
+
+2. Scientific Instrumentation
+Perseverance carries seven primary instruments, including SuperCam for laser-induced breakdown spectroscopy, PIXL for micro-focus X-ray fluorescence, and MOXIE, which demonstrated the in-situ production of breathable oxygen from atmospheric carbon dioxide at a rate of approximately 6 grams per hour.
+
+3. Ingenuity Helicopter Milestones
+The Ingenuity Mars Helicopter achieved the first powered, controlled aerodynamic flight on another planet on April 19, 2021. Originally designed for a 30-day technology demonstration consisting of up to 5 flights, Ingenuity completed 72 operational flights over nearly three years before concluding its mission.

@@ -1,1 +1,6 @@
 /personal_knowledge_dump_vector_db.txt
+.env
+my_local_chroma_db/
+server_db/
+.venv/
+
